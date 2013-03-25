@@ -1,0 +1,7 @@
+# Creating my new file on Github
+
+$ git add  spec-mvc.pdf
+
+$ git commit -m 'Add a Paper'
+
+$ git push origin master
